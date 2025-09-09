@@ -18,6 +18,7 @@ Clone the repsitory
 Open the project in android studio
 Build and run application
 Error Handling 
+
 This app includes comprehensive error handling with user-friendly message for:
 Empty meal description
 Invalid input format
